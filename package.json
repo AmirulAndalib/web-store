@@ -21,9 +21,9 @@
     "jquery": "^3.6.4"
   },
   "devDependencies": {
-    "electron": "^23.1.4",
+    "electron": "^45.0.0",
     "electron-icon-maker": "^0.0.5",
-    "electron-builder": "^23.6.0"
+    "electron-builder": "^26.15.3"
   },
   "build": {
     "appId": "org.blend.web-store",
